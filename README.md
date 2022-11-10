@@ -1,2 +1,4 @@
 # Image-slider
-Slide through images
+
+# Live link
+- https://larris1e.github.io/Image-slider/
